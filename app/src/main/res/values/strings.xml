@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">VisionChats</string>
+    <string name="numero_celular">Numero de Telefono</string>
+    <string name="contra">Contraseña</string>
+    <string name="datos_personales">Nombre Completo</string>
+    <string name="btn_texto_verificar">Verificar</string>
+    <string name="texto_registrar">Registrate</string>
+    <string name="texto_iniciar_sess">inicio Sesiòn</string>
 </resources>
