@@ -1,7 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="alto_imagen_perfil_">190dp</dimen>
-    <dimen name="ancho_imagen_perfil_">190dp</dimen>
-    <dimen name="margen_alto_llenar_valores_registro">120dp</dimen>
-    <dimen name="tamaño_boton_verificar">12dp</dimen>
 </resources>

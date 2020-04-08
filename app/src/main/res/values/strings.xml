@@ -6,4 +6,7 @@
     <string name="btn_texto_verificar">Verificar</string>
     <string name="texto_registrar">Registrate</string>
     <string name="texto_iniciar_sess">inicio Sesiòn</string>
+    <string name="text_login_session_saludo">Bienvenido/as</string>
+    <string name="descripcion_vision_chats">App Vision Chats esta orientada a sufragar desordenes de app para el mejor rendimiento y trae nuevas cosas innovadoras para que el usuario pueda trabajar y divertirse</string>
+    <string name="otras_formas_registro">otras formas que puedes Registrarte</string>
 </resources>
